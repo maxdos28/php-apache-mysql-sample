@@ -55,8 +55,10 @@ $contacts = $db->all();
             <tr>
                 <th>#</th>
                 <th>姓名</th>
+                <th>性别</th>
                 <th>电话</th>
                 <th>操作</th>
+
             </tr>
             </thead>
             <tbody>
